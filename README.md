@@ -1,2 +1,6 @@
 # elasticsearch-php-module
-# PHP Client for Elasticsearch ,include Psr/Log, React/promise,GuzzleHttp/Ring and Elasticsearch
+
+# Useful Elasticsearch Example Queries
+# https://dzone.com/articles/23-useful-elasticsearch-example-queries
+
+#exmaple:index.php
